@@ -17,7 +17,7 @@ result=[]
 resultg1=[]
 sresult=[]
 resulta1=[]
-arquivo="C://Users/picin/Downloads/Formulário sem título (respostas).xlsx"
+arquivo="C://Caminho_DO_ARQUIVO"
 
 dados = pd.read_excel(arquivo)
 
