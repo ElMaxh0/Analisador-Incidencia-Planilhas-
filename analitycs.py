@@ -66,24 +66,3 @@ for aa in resulta1 :
 
 # In[ ]:
 
-
-print('Ordenados')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
